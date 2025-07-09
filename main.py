@@ -7,5 +7,4 @@ path = os.getcwd()
 path = os.getcwd()
 path = os.getcwd()
 path = os.getcwd()
-path = os.getcwd()
-path = os.get
+path = os.getcwd(
