@@ -5,4 +5,4 @@ import time
 path = os.getcwd()
 path = os.getcwd()
 path = os.getcwd()
-path = os.getcwd
+path = os.ge
